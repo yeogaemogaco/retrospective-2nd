@@ -1,6 +1,6 @@
 # 여개모각코 2기 입동팀 목표 및 회고 기록  
 
-[뭐하는 곳?](https://yeogaemogaco.github.io/retrospective-2nd-ipdong/about/)
+[뭐하는 곳?](https://yeogaemogaco.github.io/retrospective-2nd/about/)
 
 ## Commit 메시지  
 Commit 메시지는 하는 행위를 대괄호 안에 명시 후 내용 작성   
