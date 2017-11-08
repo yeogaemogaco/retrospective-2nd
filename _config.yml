@@ -1,5 +1,43 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-slate
+### your site title here
+
+title: "2기 입동팀 회고"
+
+# name of the repository
+baseurl:
+email: yeogaemogaco@email.com
+
+permalink: /:title/
+
+highlighter: rouge
+markdown: kramdown
+### exclude the instructions / write-up in the README.md
+
+
+# Tracker
+analytics: UA-107686874-1
+
+# Comments
+disqus-shortname:
+
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+  
+
+sass:
+ style: compressed
+
+exclude:
+- README.md
+
+
+gems: [jekyll-seo-tag, jekyll-paginate]
