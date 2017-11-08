@@ -5,6 +5,7 @@ title: "2기 입동팀 회고"
 # name of the repository
 baseurl:
 email: yeogaemogaco@email.com
+parenturl: https://yeogaemogaco.github.io
 
 permalink: /:title/
 
