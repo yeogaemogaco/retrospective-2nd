@@ -1,0 +1,8 @@
+---
+layout: default
+---
+<h1 class="headline">{{site.title}}</h1>
+{% assign sortedposts = site.posts | sort: 'date' | reverse %}
+{% for post in sortedposts %}
+<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+{% endfor %}
