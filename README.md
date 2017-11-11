@@ -11,5 +11,6 @@ Commit 메시지는 하는 행위를 대괄호 안에 명시 후 내용 작성
 - &#91;수정&#93; 케일라 2주차 회고 내용 수정  
 - &#91;추가&#93; 케일라 3주차 목표 및 회고 추가  
  
-
-Jekyll Theme : [** Hagura Demo**](http://webjeda.com/hagura)
+## 기타  
+- [fork한 github 프로젝트를 최신의 상태로 업데이트 하기](https://kaylais.github.io/blog/git/2017/11/11/keeping-a-fork-up-to-date/)  
+- [Jekyll Theme - ** Hagura Demo **](http://webjeda.com/hagura)
