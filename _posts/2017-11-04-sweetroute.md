@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "유니티로 VR, AR 개념잡기."
+title: "유니티로 VR, AR 공부."
 author: sweetroute
 date: 2017-11-20 12:08
 ---
