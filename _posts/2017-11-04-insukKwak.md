@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "곽인숙님 목표 및 회고"
-author: insukKwak
+author: 
+  github: insukKwak
+  name: "곽인숙"
 date: 2017-11-04 13:00
 ---
 
