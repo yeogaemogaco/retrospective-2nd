@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "자알 101"
-author: youjinchoi
+author: 
+  github: youjinchoi
+  name: "유유자족"
 date: 2017-11-14 13:13
 ---
 

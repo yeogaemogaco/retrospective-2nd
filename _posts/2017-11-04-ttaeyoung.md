@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "둥글둥글 개발자님 목표 및 회고"
-author: ttaeyoung
+author: 
+  github: ttaeyoung
+  name: "둥글둥글 개발자"
 date: 2017-11-04 13:00
 ---
 
