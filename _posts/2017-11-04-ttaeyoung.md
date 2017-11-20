@@ -2,7 +2,7 @@
 layout: post
 title: "둥글둥글 개발자님 목표 및 회고"
 author: ttaeyoung
-date: 2017-11-04 13:00
+date: 2017-11-20 23:00
 ---
 
 ## 목표
