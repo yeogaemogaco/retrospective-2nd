@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "둥글둥글 개발자님 목표 및 회고"
+title: "자바 기본 다시 보기 & 스프링 코어 정리"
 author: ttaeyoung
 date: 2017-11-20 23:00
 ---
