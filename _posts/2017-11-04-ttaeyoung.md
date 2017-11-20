@@ -17,7 +17,7 @@ spring: [책]스프링 in Action (2/2)
 spring.io guide를 참고로 web-mvc, spring-data, spring-cloud 샘플 정리
 
 ## 회고
-## 11월 1일
+## 11월 4일
 가족행사 김!장!으로 불참
 
 ## 11월 11일
