@@ -3,6 +3,11 @@ layout: default
 ---
 <h1 class="headline">{{site.title}}</h1>
 {% assign sortedposts = site.posts | sort: 'date' | reverse %}
+<ul>
 {% for post in sortedposts %}
-<h4><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h4>
+  <li class="truncated-title"><a href="{{post.url | prepend: site.baseurl}}">
+    <span style="font-weight: 600;">[{{post.author.name}}]</span>
+  {{ post.title | strip_html | truncatewords: 10 }}
+  </a></li>
 {% endfor %}
+</ul>

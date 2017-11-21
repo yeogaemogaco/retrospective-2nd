@@ -196,6 +196,25 @@ footer {
     margin-right: 1em;
 }
 
+body>ul {
+    padding-left: 0;
+}
 
+.truncated-title {
+    @include media-query($on-palm) {
+        width: 300px;
+    }
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #60c17d;
+}
 
-
+.portrait {
+    width: 5%;
+    vertical-align: middle;
+    border-radius: 50%;
+    @include media-query($on-palm) {
+        width: 10%;
+    }
+}
