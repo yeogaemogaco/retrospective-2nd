@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "보댕님 목표 및 회고"
-author: elliekwon
+author: 
+  github: elliekwon
+  name: "보댕"
 date: 2017-11-04 13:00
 ---
 
