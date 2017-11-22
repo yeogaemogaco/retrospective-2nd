@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "thomasJ님 목표 및 회고"
-author: gyoungeunbae
+author: 
+  github: gyoungeunbae
+  name: "thomasJ"
 date: 2017-11-04 13:00
 ---
 
