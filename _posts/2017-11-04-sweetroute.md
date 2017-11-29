@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "유니티로 VR, AR 공부."
-author: sweetroute
+author: 
+  github: sweetroute
+  name: "치즈"
 date: 2017-11-20 12:21
 ---
 
